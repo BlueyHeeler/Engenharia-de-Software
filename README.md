@@ -33,3 +33,7 @@ Considerações Finais
     A metaprogramação e o conceito de código que se modifica foi o mais
     interessante e complexo, acredito ainda que não dominei essa técnica,
     e nem estou perto, mas acredito que é uma habilidade bastante importante e que curiosamente nunca havia ouvido falar previamente.
+
+Homework 2
+
+    Criação do site myRottenPotatoes, seguindo o passo a passo do livro Software Engineering SaaS-compactado, capítulo 4.
